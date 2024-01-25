@@ -46,7 +46,7 @@ body {
   /* transform: rotate(-190deg); */
   margin: 5px; /* เพิ่มระยะห่างระหว่างปุ่ม */
   /* transform: translate(-40px, 80px); */
-  transform: rotate(32deg) translate(-40px, 60px);
+  transform: rotate(32deg) translate(-40px, 10px);
 }
 
 

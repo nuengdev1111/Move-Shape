@@ -216,22 +216,22 @@ const App: React.FC = () => {
         {/* <h3 style={contentStyle}>1</h3> */}
         <Space direction="vertical" size={16}>
           <Space wrap size={16}>
-            <Avatar style={{backgroundColor: "#4C494C"}} size={64}  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={64}  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size="large"  />
-            <Avatar style={avatarStyle} shape="square"  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size="small"  />
+            <Avatar style={{backgroundColor: "#4C494C"}} size={94}  />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94}  />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94}  />
+            <Avatar style={avatarStyle} shape="square" size={94} />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94} />
           </Space>
         </Space>
       </div>
       <div>
         <Space direction="vertical" size={16}>
           <Space wrap size={16}>
-            <Avatar style={{backgroundColor: "#4C494C"}} size={64}  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={64}  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size="large"  />
-            <Avatar style={avatarStyle} shape="square"  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size="small"  />
+            <Avatar style={avatarStyle} shape="square" size={94} />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94}  />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square"  size={94} />
+            <Avatar style={{backgroundColor: "#4C494C"}} size={94}  />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94} />
           </Space>
         </Space>
         {/* <h3 style={contentStyle}>2</h3> */}
@@ -239,11 +239,11 @@ const App: React.FC = () => {
       <div>
         <Space direction="vertical" size={16}>
           <Space wrap size={16}>
-            <Avatar style={{backgroundColor: "#4C494C"}} size={64}  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={64}  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size="large"  />
-            <Avatar style={avatarStyle} shape="square"  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size="small"  />
+            <Avatar style={{backgroundColor: "#4C494C"}} size={94}  />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94}  />
+            <Avatar style={{backgroundColor: "#4C494C"}} size={94}  />
+            <Avatar style={avatarStyle} shape="square" size={94} />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94} />
           </Space>
         </Space>
         {/* <h3 style={contentStyle}>3</h3> */}
@@ -251,11 +251,11 @@ const App: React.FC = () => {
       <div>
         <Space direction="vertical" size={16}>
           <Space wrap size={16}>
-            <Avatar style={{backgroundColor: "#4C494C"}} size={64}  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={64}  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size="large"  />
-            <Avatar style={avatarStyle} shape="square"  />
-            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size="small"  />
+            <Avatar style={{backgroundColor: "#4C494C"}} size={94}  />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94}  />
+            <Avatar style={avatarStyle} shape="square" size={94} />
+            <Avatar style={avatarStyle} shape="square" size={94} />
+            <Avatar style={{backgroundColor: "#4C494C"}} shape="square" size={94} />
           </Space>
         </Space>
         {/* <h3 style={contentStyle}>4</h3> */}
